@@ -14,7 +14,7 @@
    - Flutter,Dart,BloC,Firebase,PostgreSQL
      
 - 📫 Bana ulaşın
-   - linkedin.com/in/ozkanteberr
+   - https://www.linkedin.com/in/ozkanteberr/
    - ozkanteberr7@gmail.com
    - 
 ⭐ GitHub profilime göz attığın için teşekkürler! ⭐
@@ -37,7 +37,7 @@
    - Flutter, Dart, BloC, Firebase, PostgreSQL  
 
 - 📫 Contact Me
-   - linkedin.com/in/ozkanteberr
+   - https://www.linkedin.com/in/ozkanteberr/
    - ozkanteberr7@gmail.com  
 
 ⭐ Thank you for visiting my GitHub profile! ⭐
