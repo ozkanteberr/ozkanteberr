@@ -1,5 +1,5 @@
 [TR]
-
+- 📞 Zorunlu yaz stajımı yapabileceğim fırsatkar arıyorum.
 - 👋 Merhaba,ben Özkan Teber.
 - 🎓 Karadeniz Teknik Üniversitesi • Bilgisayar Mühendisliği • 2. Sınıf Öğrencisiyim.
 - 💻 Mobil uygulama geliştirme alanına ilgim var.Flutter ve Kotlin ile projeler geliştiriyorum.
